@@ -11,7 +11,7 @@ This project the user will be able to create a README file dynamically using nod
 
 ## Table of Contents
 
-- [Repo Size](#repo size)
+- [Repo Size](#repo-size)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
